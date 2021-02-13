@@ -1,0 +1,3 @@
+Name: Artur Neto
+Age: 23
+Favorite color: Red
